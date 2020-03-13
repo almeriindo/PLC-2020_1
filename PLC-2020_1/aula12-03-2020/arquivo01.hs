@@ -23,5 +23,3 @@ type Pessoa = (Nome, Idade)
 
 nome :: Pessoa -> Nome
 nome (n, _) = n
-
---aaaaa
